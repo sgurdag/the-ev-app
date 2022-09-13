@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The EV App</string>
+
+    <string name="generic_error">Oops, Something went wrong!</string>
+    <string name="remaining_charge">charge left</string>
+    <string name="remaning_miles">miles left</string>
+    <string name="battery">battery</string>
+    <string name="monthly">monthly</string>
+    <string name="refresh">refresh</string>
+</resources>
